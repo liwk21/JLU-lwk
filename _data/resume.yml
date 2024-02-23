@@ -37,12 +37,12 @@ main: #简历主要内容，
 
   - title: 西南石油大学
     duration: "2018年9月 - 2021年6月"
-    sub: 四川南充 硕士研究生
+    sub: 四川成都 硕士研究生
     detail: 地质资源与地质工程专业
 
   - title: 西南石油大学
     duration: "2014年9月 - 2018年6月"
-    sub: 四川南充 工学学士
+    sub: 四川成都 工学学士
     detail: 地下空间工程专业
     
 - type: skills
